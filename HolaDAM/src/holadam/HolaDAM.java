@@ -4,6 +4,9 @@ public class HolaDAM {
 
     public static void main(String[] args) {
         holaDam();
+
+        llueve();
+
         adiosDam();
         ayuda();
         System.out.println(ganasDeVivir());
@@ -12,6 +15,12 @@ public class HolaDAM {
     private static void holaDam() {
         System.out.println("Hola DAM!");
     }
+
+    
+    public static void llueve(){
+        System.out.println("Está lloviendo");
+    } 
+
 
     private static void adiosDam() {
         System.out.println("Adios DAM!");
@@ -24,5 +33,6 @@ public class HolaDAM {
     private static int ganasDeVivir() {
         return 0;
     }
+
 
 }
