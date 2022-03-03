@@ -14,5 +14,9 @@ public class HolaDAM {
     private static void adiosDam() {
         System.out.println("Adios DAM!");
     }
+    
+    private static void ayuda() {
+        System.out.println("Ayuda por favor.");
+    }
 
 }
