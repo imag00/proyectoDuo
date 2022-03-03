@@ -5,6 +5,8 @@ public class HolaDAM {
     public static void main(String[] args) {
         holaDam();
         adiosDam();
+        ayuda();
+        System.out.println(ganasDeVivir());
     }
 
     private static void holaDam() {
@@ -17,6 +19,10 @@ public class HolaDAM {
     
     private static void ayuda() {
         System.out.println("Ayuda por favor.");
+    }
+    
+    private static int ganasDeVivir() {
+        return 0;
     }
 
 }
