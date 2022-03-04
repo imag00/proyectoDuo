@@ -1,1 +1,4 @@
-# practica2
+# Proyecto duo
+Ismael Magro González
+
+Carmen Crespo Miranda
